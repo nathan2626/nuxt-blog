@@ -37,6 +37,9 @@ export default {
       { hid: 'description', name: 'description', content: 'Meta description' }
     ]
   },
+  props: [
+    'error'
+  ]
 }
 </script>
 
